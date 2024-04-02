@@ -12,7 +12,7 @@ Responde a las preguntas en el Desafío 1, 2 y 3. Consulta las referencias si te
 
 ## Entregables
 
-- `challenge-1.ipynb`, `challenge-2.ipynb` y `challenge-3.ipynb` con tus respuestas a cada uno de los ejercicios.
+- `challenges.ipynb` con tus respuestas a cada uno de los ejercicios.
 
 ## Entrega
 
